@@ -7,6 +7,8 @@
 * CSS
 
 * Flex-box
+  
+* Media Queries
 
 ## Feito por:
 
