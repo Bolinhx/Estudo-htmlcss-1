@@ -36,8 +36,8 @@ body{
 }
 .container__botao{
     background-color: var(--botao-azul);
-    border-radius: 5px;
-    padding: 1em;
+    border-radius: 0.3rem;
+    padding: 1rem;
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
@@ -46,14 +46,14 @@ body{
 }
 .botao__secundario{
     background-color: transparent;
-    border: 2px solid var(--branco-principal);
+    border: 0.2rem solid var(--branco-principal);
 }
 .container__aviso{
-    font-size: 12px;
+    font-size: 0.8rem;
     color: var(--cinza-secundario);
 }
 .container__titulo{
-    font-size: 28px;
+    font-size: 1.8rem;
     font-weight: 700;
 }
 .container__imagem{
